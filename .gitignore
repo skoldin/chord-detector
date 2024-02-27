@@ -2,3 +2,4 @@ data
 songs
 .idea
 pretrained_models
+*.h5
